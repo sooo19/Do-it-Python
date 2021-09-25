@@ -23,5 +23,8 @@ print("I read {0} books.".format(num))      #숫자 값을 가진 변수로 대�
 
 year=2021
 month="September"
-print("Today is {0} {1}".format(month, year))
+print("Today is {0} {1}".format(month, year))   #2개 이상의 값 넣기
+
+
+
 
