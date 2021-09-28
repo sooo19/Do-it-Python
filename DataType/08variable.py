@@ -31,6 +31,11 @@ a = b = 'python'    #변수에 대입
 
 #변수 값 교환
 a=3
-b=4
+b=5
 a,b=b,a
 print(a,b)
+
+c='name'
+d='age'
+c,d=d,c
+print(c,d)
